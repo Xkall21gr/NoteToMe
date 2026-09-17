@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# PyInstaller Build Directories
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User Data (το json με τις σημειώσεις σου)
+reminders_data.json
